@@ -1,0 +1,9 @@
+[10-Oct-2022 10:20:09 UTC] PHP Warning:  Undefined array key "lname" in /home1/reflevb2/public_html/Wellness/contact.php on line 5
+[10-Oct-2022 10:20:09 UTC] PHP Warning:  Undefined array key "contact" in /home1/reflevb2/public_html/Wellness/contact.php on line 7
+[10-Oct-2022 10:20:09 UTC] PHP Warning:  Undefined array key "email" in /home1/reflevb2/public_html/Wellness/contact.php on line 9
+[10-Oct-2022 10:20:09 UTC] PHP Warning:  Undefined array key "chkbox" in /home1/reflevb2/public_html/Wellness/contact.php on line 11
+[10-Oct-2022 10:20:09 UTC] PHP Warning:  Undefined array key "qty" in /home1/reflevb2/public_html/Wellness/contact.php on line 16
+[10-Oct-2022 10:20:09 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home1/reflevb2/public_html/Wellness/contact.php:22
+Stack trace:
+#0 {main}
+  thrown in /home1/reflevb2/public_html/Wellness/contact.php on line 22
